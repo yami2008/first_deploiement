@@ -53,6 +53,33 @@ export default function Welcome(){
                         <h6>Luc Robert, Propriétaire de BoutiqueEnLigne</h6>
                         <p>"Grâce à la plateforme e-commerce conçue par [Votre Nom], nos ventes ont triplé en quelques mois. Il a su intégrer toutes les fonctionnalités dont nous avions besoin avec une interface utilisateur claire et agréable"</p>
                     </div>
+                    <div className="col-12 text-center">
+                        <h1>Témoignages</h1>
+                        <h6>Jean Dupont, CEO de TechStartup</h6>
+                        <p>"Travailler avec CHERIFI a été une expérience exceptionnelle. Son expertise en développement web et sa capacité à comprendre nos besoins nous ont permis de lancer notre site en un temps record. Je recommande vivement ses services."</p>
+                        <h6>Marie Martin, Responsable de Projets chez BusinessCorp</h6>
+                        <p>"CHERIFI a transformé notre façon de gérer les projets avec l'application qu'il a développée. Sa solution a non seulement augmenté notre efficacité, mais a également facilité la collaboration au sein de notre équipe. Un vrai professionnel."</p>
+                        <h6>Luc Robert, Propriétaire de BoutiqueEnLigne</h6>
+                        <p>"Grâce à la plateforme e-commerce conçue par [Votre Nom], nos ventes ont triplé en quelques mois. Il a su intégrer toutes les fonctionnalités dont nous avions besoin avec une interface utilisateur claire et agréable"</p>
+                    </div>
+                    <div className="col-12 text-center">
+                        <h1>Témoignages</h1>
+                        <h6>Jean Dupont, CEO de TechStartup</h6>
+                        <p>"Travailler avec CHERIFI a été une expérience exceptionnelle. Son expertise en développement web et sa capacité à comprendre nos besoins nous ont permis de lancer notre site en un temps record. Je recommande vivement ses services."</p>
+                        <h6>Marie Martin, Responsable de Projets chez BusinessCorp</h6>
+                        <p>"CHERIFI a transformé notre façon de gérer les projets avec l'application qu'il a développée. Sa solution a non seulement augmenté notre efficacité, mais a également facilité la collaboration au sein de notre équipe. Un vrai professionnel."</p>
+                        <h6>Luc Robert, Propriétaire de BoutiqueEnLigne</h6>
+                        <p>"Grâce à la plateforme e-commerce conçue par [Votre Nom], nos ventes ont triplé en quelques mois. Il a su intégrer toutes les fonctionnalités dont nous avions besoin avec une interface utilisateur claire et agréable"</p>
+                    </div>
+                    <div className="col-12 text-center">
+                        <h1>Témoignages</h1>
+                        <h6>Jean Dupont, CEO de TechStartup</h6>
+                        <p>"Travailler avec CHERIFI a été une expérience exceptionnelle. Son expertise en développement web et sa capacité à comprendre nos besoins nous ont permis de lancer notre site en un temps record. Je recommande vivement ses services."</p>
+                        <h6>Marie Martin, Responsable de Projets chez BusinessCorp</h6>
+                        <p>"CHERIFI a transformé notre façon de gérer les projets avec l'application qu'il a développée. Sa solution a non seulement augmenté notre efficacité, mais a également facilité la collaboration au sein de notre équipe. Un vrai professionnel."</p>
+                        <h6>Luc Robert, Propriétaire de BoutiqueEnLigne</h6>
+                        <p>"Grâce à la plateforme e-commerce conçue par [Votre Nom], nos ventes ont triplé en quelques mois. Il a su intégrer toutes les fonctionnalités dont nous avions besoin avec une interface utilisateur claire et agréable"</p>
+                    </div>
                 </div>
             </div>
 
